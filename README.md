@@ -11,7 +11,7 @@ The software is made available under the Smithsonian Institution [terms of use](
 ## Installation  
 In the terminal:  
 `git clone https://github.com/campanam/kinshipUtils`  
-In your R environment:
+In your R environment:  
 `source("/path/to/kinshipUtils.R")`  
 
 ## Usage  
@@ -23,7 +23,7 @@ bootstrap.kinship is a wrapper function around snpgdsLDpruning, snpgdsIBDMoM and
 `ldmethod`: Method to perform LD pruning. Passes the value to the method parameter of snpgdsLDpruning.  
 
 bootstrap.kinship generates a table with the following columns:  
-Sample1   Sample2   KinshipRep1...KinshipRepN   MeanKinship   StandardError   LowCI   HighCI
+Sample1     Sample2     KinshipRep1...KinshipRepN     MeanKinship     StandardError     LowCI     HighCI
 
 MeanKinship and StandardError list the mean kinship estimate and the corresponding standard errors for each sample pair. LowCI and HighCI give the lower and upper bounds of the 95% Confidence interval respectively.  
 
