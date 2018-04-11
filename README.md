@@ -3,7 +3,7 @@ Michael G. Campana, 2018
 Smithsonian Conservation Biology Institute  
 Contact: <campanam@si.edu>  
 
-R code to perform bootstrapping analysis and generate triangular kinship matrices from [SNPRelate](https://github.com/zhengxwen/SNPRelate) (Zheng et al. 2012. Bioinformatics. https://academic.oup.com/bioinformatics/article/28/24/3326/245844) Identity-by-Descent results.  
+R code to perform bootstrapping analysis and generate triangular kinship matrices from [SNPRelate](https://github.com/zhengxwen/SNPRelate) ([Zheng et al. 2012. Bioinformatics. 28: 3326-3328.](https://academic.oup.com/bioinformatics/article/28/24/3326/245844)) Identity-by-Descent results.  
 
 ## License  
 The software is made available under the Smithsonian Institution [terms of use](https://www.si.edu/termsofuse).  
