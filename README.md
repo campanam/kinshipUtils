@@ -29,7 +29,7 @@ MeanKinship and StandardError list the mean kinship estimate and the correspondi
 
 ### write.kinship.matrix  
 write.kinship.matrix generates triangular matrices for each sample pair from the bootstrap.kinship results table. Results are written as text files in the current working directory.  
-`x`: bootstrap.kinship results file to process
+`x`: bootstrap.kinship results file to process.  
 `meanfile`: Name of output file to include only mean kinship values.  
 `cifile`: Name of output file to include mean and confidence interval values.  
 `sep`: Separator for values. Default is a comma (for CSV).  
