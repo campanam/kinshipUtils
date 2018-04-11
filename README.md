@@ -23,7 +23,7 @@ bootstrap.kinship is a wrapper function around snpgdsLDpruning, snpgdsIBDMoM and
 `ldmethod`: Method to perform LD pruning. Passes the value to the method parameter of snpgdsLDpruning.  
 
 bootstrap.kinship generates a table with the following columns:  
-Sample1       Sample2       KinshipRep1       ...       KinshipRepN       MeanKinship       StandardError       LowCI       HighCI
+Sample1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sample2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;KinshipRep1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;...&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;KinshipRepN&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MeanKinship&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;StandardError&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;LowCI&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;HighCI
 
 MeanKinship and StandardError list the mean kinship estimate and the corresponding standard errors for each sample pair. LowCI and HighCI give the lower and upper bounds of the 95% Confidence interval respectively.  
 
