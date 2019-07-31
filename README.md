@@ -34,3 +34,7 @@ write.kinship.matrix generates triangular matrices for each sample pair from the
 `cifile`: Name of output file to include mean and confidence interval values.  
 `sep`: Separator for values. Default is a comma (for CSV).  
 `digits`: Number of digits for values rounding. Default is 3.  
+
+## Citation  
+Please cite:  
+Cortes-Rodriguez N, Campana MG, Berry L *et al.* (2019) Population genomics and structure of the critically endangered Mariana crow (*Corvus kubaryi*). *Genes*, __10__, 187. doi: [10.3390/genes10030187](https://www.mdpi.com/2073-4425/10/3/187/htm).  
