@@ -1,5 +1,5 @@
 # kinshipUtils
-Michael G. Campana, 2018  
+Michael G. Campana, 2018-2024  
 Smithsonian Conservation Biology Institute  
 
 R code to perform bootstrapping analysis and generate triangular kinship matrices from [SNPRelate](https://github.com/zhengxwen/SNPRelate) ([Zheng et al. 2012. Bioinformatics. 28: 3326-3328.](https://academic.oup.com/bioinformatics/article/28/24/3326/245844)) Identity-by-Descent results.  
